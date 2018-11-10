@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/foobar",
+        "url": "https://github.com/foobar"
+    },
+    {
+        "path": "/foobar2",
+        "url": "https://github.com/foobar2"
+    }
+]
